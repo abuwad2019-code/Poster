@@ -1,0 +1,5 @@
+{
+  "name": "AdCraft AI Agent",
+  "description": "An intelligent advertising agent that transforms ideas into professional scripts, storyboards, and video generation prompts using Gemini AI.",
+  "requestFramePermissions": []
+}
